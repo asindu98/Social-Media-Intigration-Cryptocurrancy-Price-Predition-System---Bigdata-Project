@@ -1,0 +1,2 @@
+# Social-Media-Intigration-Cryptocurrancy-Price-Predition-System---Bigdata-Project
+This Big Data project focuses on integrating social media data to predict cryptocurrency prices. By analyzing trends, sentiments, and discussions from platform Wikipedia Comments, the system generates real-time predictions on cryptocurrency price movements, leveraging machine learning and data analytics for more accurate forecasting.
